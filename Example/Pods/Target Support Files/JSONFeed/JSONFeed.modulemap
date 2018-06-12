@@ -1,0 +1,6 @@
+framework module JSONFeed {
+  umbrella header "JSONFeed-umbrella.h"
+
+  export *
+  module * { export * }
+}

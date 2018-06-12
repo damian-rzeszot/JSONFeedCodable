@@ -1,0 +1,16 @@
+PODS:
+  - JSONFeed (1.0.0)
+
+DEPENDENCIES:
+  - JSONFeed (from `../`)
+
+EXTERNAL SOURCES:
+  JSONFeed:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JSONFeed: 100f507e82a8316f2a1d9bb80ceab8c1f36bb6f9
+
+PODFILE CHECKSUM: ac85dbe6010d1717d85390c3a40f35c0af93aec6
+
+COCOAPODS: 1.5.3
