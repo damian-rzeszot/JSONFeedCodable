@@ -2,6 +2,7 @@
 Pod::Spec.new do |s|
   s.name             = 'JSONFeed'
   s.version          = '1.0.0'
+
   s.summary          = 'This is short description of JSONFeed.'
 
   s.homepage         = 'https://github.com/damian-rzeszot/JSONFeed'
