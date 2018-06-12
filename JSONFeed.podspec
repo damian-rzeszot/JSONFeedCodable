@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
-  s.name             = 'JSONFeed'
-  s.version          = '1.0.0'
+  s.name             = 'JSONFeedCodable'
+  s.version          = '1.0.1'
 
   s.summary          = 'This is short description of JSONFeed.'
 
